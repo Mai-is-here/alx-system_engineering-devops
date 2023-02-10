@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+s =711 /.
+chmod -R =711 ./ 
